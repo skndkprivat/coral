@@ -1,0 +1,18 @@
+{
+  "app": {
+    "title": "Rapportgenerator",
+    "starting": "Starter rapportgenerering...",
+    "generating": "Genererer rapport...",
+    "saving": "Gemmer rapport...",
+    "success": "Rapport gemt som: {filename}",
+    "error": "Fejl: {message}",
+    "completed": "Proces fuldført!"
+  },
+  "report": {
+    "title": "Genereret Rapport",
+    "date": "Dato",
+    "summary": "Resumé",
+    "total_items": "Antal Elementer",
+    "status": "Status"
+  }
+}

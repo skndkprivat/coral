@@ -1,0 +1,18 @@
+{
+  "app": {
+    "title": "Générateur de Rapports",
+    "starting": "Démarrage de la génération de rapport...",
+    "generating": "Génération du rapport...",
+    "saving": "Enregistrement du rapport...",
+    "success": "Rapport enregistré avec succès sous: {filename}",
+    "error": "Erreur: {message}",
+    "completed": "Processus terminé!"
+  },
+  "report": {
+    "title": "Rapport Généré",
+    "date": "Date",
+    "summary": "Résumé",
+    "total_items": "Nombre Total d'Éléments",
+    "status": "Statut"
+  }
+}

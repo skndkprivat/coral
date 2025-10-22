@@ -1,0 +1,18 @@
+{
+  "app": {
+    "title": "Report Generator",
+    "starting": "Starting report generation...",
+    "generating": "Generating report...",
+    "saving": "Saving report...",
+    "success": "Report saved successfully as: {filename}",
+    "error": "Error: {message}",
+    "completed": "Process completed!"
+  },
+  "report": {
+    "title": "Generated Report",
+    "date": "Date",
+    "summary": "Summary",
+    "total_items": "Total Items",
+    "status": "Status"
+  }
+}
