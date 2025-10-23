@@ -1,6 +1,6 @@
 {
   "app": {
-    "title": "Report Generator",
+    "title": "Genesys Cloud Report Generator",
     "starting": "Starting report generation...",
     "generating": "Generating report...",
     "saving": "Saving report...",
@@ -14,5 +14,30 @@
     "summary": "Summary",
     "total_items": "Total Items",
     "status": "Status"
+  },
+  "genesys": {
+    "connecting": "Connecting to Genesys Cloud ({region})...",
+    "connected": "Connected to Genesys Cloud successfully",
+    "connection_error": "Failed to connect to Genesys Cloud: {message}",
+    "fetching_conversations": "Fetching conversation data for the last {days} days...",
+    "fetched_page": "Fetched page {page}: {count} conversations",
+    "total_conversations": "Total of {total} conversations fetched",
+    "fetch_error": "Error fetching data: {message}",
+    "analyzing": "Analyzing conversations and customer journeys..."
+  },
+  "visualization": {
+    "no_data": "No data available",
+    "entry_points_title": "ENTRY POINTS (DNIS/Phone Numbers)",
+    "customer_journeys_title": "CUSTOMER JOURNEYS (Top Flows)",
+    "total_conversations": "Total Conversations",
+    "total_journeys": "Total Journeys",
+    "unique_journeys": "Unique Journeys",
+    "showing_top": "Showing Top",
+    "of": "of",
+    "report_title": "Conversation Analysis Report",
+    "date_range": "Period",
+    "entry_points_count": "Entry Points Count",
+    "generated_at": "Generated",
+    "powered_by": "Powered by"
   }
 }

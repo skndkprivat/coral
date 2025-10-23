@@ -1,6 +1,6 @@
 {
   "app": {
-    "title": "Rapportgenerator",
+    "title": "Genesys Cloud Rapportgenerator",
     "starting": "Starter rapportgenerering...",
     "generating": "Genererer rapport...",
     "saving": "Gemmer rapport...",
@@ -14,5 +14,30 @@
     "summary": "Resumé",
     "total_items": "Antal Elementer",
     "status": "Status"
+  },
+  "genesys": {
+    "connecting": "Forbinder til Genesys Cloud ({region})...",
+    "connected": "Forbindelse til Genesys Cloud etableret",
+    "connection_error": "Fejl ved forbindelse til Genesys Cloud: {message}",
+    "fetching_conversations": "Henter samtaledata for de sidste {days} dage...",
+    "fetched_page": "Hentet side {page}: {count} samtaler",
+    "total_conversations": "I alt {total} samtaler hentet",
+    "fetch_error": "Fejl ved hentning af data: {message}",
+    "analyzing": "Analyserer samtaler og kunderejser..."
+  },
+  "visualization": {
+    "no_data": "Ingen data tilgængelig",
+    "entry_points_title": "INDGANGSPUNKTER (DNIS/Telefonnumre)",
+    "customer_journeys_title": "KUNDEREJSER (TopFlows)",
+    "total_conversations": "Samlede Samtaler",
+    "total_journeys": "Samlede Rejser",
+    "unique_journeys": "Unikke Rejser",
+    "showing_top": "Viser Top",
+    "of": "af",
+    "report_title": "Samtaleanalyse Rapport",
+    "date_range": "Periode",
+    "entry_points_count": "Antal Indgange",
+    "generated_at": "Genereret",
+    "powered_by": "Drevet af"
   }
 }

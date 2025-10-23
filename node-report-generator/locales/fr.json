@@ -1,6 +1,6 @@
 {
   "app": {
-    "title": "Générateur de Rapports",
+    "title": "Générateur de Rapports Genesys Cloud",
     "starting": "Démarrage de la génération de rapport...",
     "generating": "Génération du rapport...",
     "saving": "Enregistrement du rapport...",
@@ -14,5 +14,30 @@
     "summary": "Résumé",
     "total_items": "Nombre Total d'Éléments",
     "status": "Statut"
+  },
+  "genesys": {
+    "connecting": "Connexion à Genesys Cloud ({region})...",
+    "connected": "Connexion à Genesys Cloud établie",
+    "connection_error": "Échec de la connexion à Genesys Cloud: {message}",
+    "fetching_conversations": "Récupération des données de conversation des {days} derniers jours...",
+    "fetched_page": "Page récupérée {page}: {count} conversations",
+    "total_conversations": "Total de {total} conversations récupérées",
+    "fetch_error": "Erreur lors de la récupération des données: {message}",
+    "analyzing": "Analyse des conversations et des parcours clients..."
+  },
+  "visualization": {
+    "no_data": "Aucune donnée disponible",
+    "entry_points_title": "POINTS D'ENTRÉE (DNIS/Numéros de téléphone)",
+    "customer_journeys_title": "PARCOURS CLIENTS (Meilleurs flux)",
+    "total_conversations": "Total des Conversations",
+    "total_journeys": "Total des Parcours",
+    "unique_journeys": "Parcours Uniques",
+    "showing_top": "Affichage du Top",
+    "of": "de",
+    "report_title": "Rapport d'Analyse des Conversations",
+    "date_range": "Période",
+    "entry_points_count": "Nombre de Points d'Entrée",
+    "generated_at": "Généré",
+    "powered_by": "Propulsé par"
   }
 }
